@@ -1,0 +1,41 @@
+div.cl1{
+	height: 100px;
+	background-color : pink;
+	border: 2px;
+	margin:0px;
+	padding: 0px;
+	border: 2px
+}
+.left{
+	width: 20%;
+    float: left;
+    padding: 10px;
+    border: 2px solid white;
+    border-left: 2px solid pink;
+	height: 200px;
+	background-color : pink;
+	padding-right: 10px;
+}
+.right{
+	width: 76%;
+	float: left;
+	background-color : white;
+	border: 2px solid pink;
+}
+
+h2{
+	color: lime;
+	margin:0px;
+	padding-left:5px;
+	border-right: 2px solid white;
+	padding-top: 20px;
+	font-size: 50px;
+}
+.footer {
+  border: 2px;
+  clear: left;
+  background-color: pink;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
